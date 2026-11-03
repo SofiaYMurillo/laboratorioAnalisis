@@ -2,8 +2,6 @@
 
 ## Diagrama de flujo
 
-![Diagrama de flujo del proceso de reserva](diagrama-flujo.png)
-
 ### Descripción del flujo
 1. El estudiante registra los datos de la solicitud (identificador, nombre, fecha, hora de inicio, duración, cantidad de personas y criterio de selección).
 2. El sistema consulta las salas disponibles.
